@@ -1,4 +1,4 @@
-Hello. I'm an engineer. I live in [Brighton](https://en.wikipedia.org/wiki/Brighton) and work for [Give Directly][gd] a charity that gives cash to those in poverty.
+Hello. I'm an engineer. I live in [Brighton](https://en.wikipedia.org/wiki/Brighton) and work for [Give Directly][gd] a charity that gives cash to people in extreme poverty.
 
 Before that I worked at a small firm in [Lewes](https://en.wikipedia.org/wiki/Lewes) [that helps children's nurseries](http://eyfs.info). Their main product is [Tapestry](https://tapestry.info), an online learning journal.
 
